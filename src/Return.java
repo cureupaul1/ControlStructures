@@ -8,7 +8,7 @@ public class Return {
         doPrint(sum);
 
         int c = 17;
-        int d = 40;
+        int d = 50;
         sum = sum(c,d);
         System.out.println("Suma este: " + sum);
         doPrint(sum);
